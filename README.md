@@ -19,7 +19,7 @@ This dashboard provides deep human resources insights into overall employee head
 ## 📸 Dashboard Preview
 
 ### HR Analytics Overview
-![HR Analytics Dashboard](screenshots/HR_Dashboard.jpg)
+![HR Analytics Dashboard](screenshots/HR%20Dashboard.jpg)
 
 ## 📂 Repository Structure
 * `/dashboard` — Contains the `.pbix` Power BI source file.
